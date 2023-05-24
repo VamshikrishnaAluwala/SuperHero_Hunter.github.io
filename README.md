@@ -27,7 +27,7 @@ To modify or enhance the application, follow these steps:
 - JavaScript (vanilla)
 
 ## Link
-hosting Link :(https://superheroapi.com) 
+hosting Link :([https://superheroapi.com](https://vamshikrishnaaluwala.github.io/SuperHero_Hunter.github.io/)) 
 
 ## License
 This project is licensed under the @vamshikrsihnaaluwala.
